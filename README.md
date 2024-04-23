@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; `Masters` @ Instituto Superior Técnico de Lisboa and `Bachelors` @ Universidade de São Paulo.
+- 🎓 &nbsp; **Computer Engineering**: `Masters` @ Instituto Superior Técnico de Lisboa and `Bachelors` @ Universidade de São Paulo.
 - 🚀 &nbsp; Software engineer at [Inductiva.AI](https://github.com/inductiva).
 - 🏗️ &nbsp; Working with Infrastructure and Data engineering
 
