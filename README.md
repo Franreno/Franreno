@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Engineering at University of São Paulo.
-- 🚀 &nbsp; Member of **[Zenith Aerospace]** and **[SAEComp]**
-- 🌱 &nbsp; Learning more about **Linux** and **Bioinformatics**.
+- 🎓 &nbsp; `Masters` @ Instituto Superior Técnico de Lisboa and `Bachelors` @ Universidade de São Paulo.
+- 🚀 &nbsp; Software engineer at [Inductiva.AI](https://github.com/inductiva).
+- 🏗️ &nbsp; Working with Infrastructure and Data engineering
 
 
 <h3> 🛠 &nbsp;Tools and languages</h3>
@@ -28,11 +28,6 @@
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
   ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
 
-
-<a href="https://github.com/Franreno">
-  <img src=https://github-readme-stats.vercel.app/api?username=Franreno&count_private=true&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=6E40C9&hide_border=true&include_all_commits=true" alt="Franreno" align="right" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -41,8 +36,3 @@
 <a href="https://www.linkedin.com/in/francisco-reis-nogueira-a985121b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-Francisco%20Reis%20Nogueira-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:franreno4@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-franreno4@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<!-- Links -->
-[Zenith Aerospace]: https://github.com/zenitheesc
-[SAEComp]: https://saecomp.github.io
-
